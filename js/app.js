@@ -13,6 +13,7 @@ async function init() {
     setupFilters();
     setupSearch();
     render();
+    await loadCompletedDives();
 }
 
 async function loadData() {
@@ -145,7 +146,7 @@ function render() {
     // Bind deep dive buttons
     container.querySelectorAll('.deep-dive-btn').forEach(btn => {
         btn.addEventListener('click', () => {
-            openDeepDive(btn.dataset.title, btn.dataset.summary);
+            openDeepDive(btn.dataset.id, btn.dataset.title, btn.dataset.summary);
         });
     });
 }
@@ -156,6 +157,7 @@ function importanceClass(val) {
 
 function renderCard(item) {
     const importance = item.importance || 3;
+    const id = item.id || '';
     return `
         <div class="brief-card">
             <div class="card-header">
@@ -174,6 +176,7 @@ function renderCard(item) {
             </div>
             <div class="card-actions">
                 <button class="deep-dive-btn"
+                    data-id="${escapeHtml(id)}"
                     data-title="${escapeHtml(item.title || '')}"
                     data-summary="${escapeHtml(item.summary || '')}">
                     🔍 深挖
@@ -181,6 +184,7 @@ function renderCard(item) {
                 ${item.original_url ? `<a href="${item.original_url}" target="_blank" rel="noopener" class="read-more">阅读原文 →</a>` : ''}
             </div>
         </div>`;
+}
 }
 
 function escapeHtml(str) {
@@ -193,7 +197,21 @@ function escapeHtml(str) {
 
 const DEEP_DIVE_GITHUB = 'https://github.com/roderland/ai-daily-brief/actions/workflows/deep-dive.yml';
 
-function openDeepDive(title, summary) {
+const COMPLETED_DIVES = [];
+
+async function loadCompletedDives() {
+    try {
+        const resp = await fetch(`${DATA_BASE}/deep_dives_index.json`);
+        if (resp.ok) {
+            const index = await resp.json();
+            COMPLETED_DIVES.length = 0;
+            COMPLETED_DIVES.push(...(index.dives || []));
+            renderCompletedDives();
+        }
+    } catch {}
+}
+
+function openDeepDive(id, title, summary) {
     const modal = document.getElementById('deepDiveModal');
     modal.style.display = 'flex';
 
@@ -202,32 +220,78 @@ function openDeepDive(title, summary) {
     document.getElementById('deepDiveReport').style.display = 'none';
 
     const encodedTitle = encodeURIComponent(title || '');
+    const encodedId = encodeURIComponent(id || '');
     const encodedSummary = encodeURIComponent(summary || '');
-    const url = `${DEEP_DIVE_GITHUB}?workflow=deep-dive.yml&inputs[topic]=${encodedTitle}&inputs[context]=${encodedSummary}`;
+    const url = `${DEEP_DIVE_GITHUB}?workflow=deep-dive.yml&inputs[topic]=${encodedTitle}&inputs[item_id]=${encodedId}&inputs[context]=${encodedSummary}`;
 
-    fetchAndRenderDeepDive(title);
+    fetchAndRenderDeepDive(id, title);
 }
 
-async function fetchAndRenderDeepDive(topic) {
-    try {
-        // 先尝试从已保存的深挖结果中查找
-        const resp = await fetch(`${DATA_BASE}/deep_dives_index.json`);
-        if (resp.ok) {
-            const index = await resp.json();
-            const normalized = t => t.trim().replace(/\s+/g, '');
-            const existing = (index.dives || []).find(d => normalized(d.topic) === normalized(topic));
-            if (existing) {
+async function fetchAndRenderDeepDive(id, title) {
+    // 先按 id 匹配
+    if (id) {
+        const existing = COMPLETED_DIVES.find(d => d.item_id === id);
+        if (existing) {
+            try {
                 const r = await fetch(`${DATA_BASE}/deep_dives/${existing.file}`);
                 if (r.ok) {
                     const data = await r.json();
                     renderDeepDiveReport(data);
                     return;
                 }
-            }
+            } catch {}
         }
-    } catch {}
+    }
+
+    // fallback: 匹配 topic（兼容旧的深挖结果）
+    if (title) {
+        const normalized = t => t.trim().replace(/\s+/g, '');
+        const existing = COMPLETED_DIVES.find(d => normalized(d.topic) === normalized(title));
+        if (existing) {
+            try {
+                const r = await fetch(`${DATA_BASE}/deep_dives/${existing.file}`);
+                if (r.ok) {
+                    const data = await r.json();
+                    renderDeepDiveReport(data);
+                    return;
+                }
+            } catch {}
+        }
+    }
 
     // 没有缓存结果，引导用户触发深挖
+    showDeepDiveGuide(title);
+}
+
+function renderCompletedDives() {
+    if (COMPLETED_DIVES.length === 0) return;
+    const container = document.getElementById('completedDives');
+    if (!container) return;
+    container.innerHTML = `
+        <h2 style="margin-bottom:16px;">📊 已完成深度分析</h2>
+        ${COMPLETED_DIVES.map(d => `
+            <div class="brief-card" style="cursor:pointer;" onclick="openCompletedDeepDive('${d.file}', '${escapeHtml(d.topic)}')">
+                <div class="card-title" style="font-size:14px;">${escapeHtml(d.topic)}</div>
+                <div style="font-size:12px;color:var(--text-tertiary);margin-top:4px;">${d.date || ''}</div>
+            </div>
+        `).join('')}
+    `;
+}
+
+async function openCompletedDeepDive(file, topic) {
+    const modal = document.getElementById('deepDiveModal');
+    modal.style.display = 'flex';
+    document.getElementById('deepDiveTitle').textContent = topic || '深度分析';
+    document.getElementById('deepDiveContent').querySelector('.deep-dive-loading').style.display = 'block';
+    document.getElementById('deepDiveReport').style.display = 'none';
+    try {
+        const r = await fetch(`${DATA_BASE}/deep_dives/${file}`);
+        if (r.ok) {
+            const data = await r.json();
+            renderDeepDiveReport(data);
+            return;
+        }
+    } catch {}
     showDeepDiveGuide(topic);
 }
 
