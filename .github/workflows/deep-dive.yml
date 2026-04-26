@@ -1,0 +1,47 @@
+name: 深挖分析
+
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: '深挖话题'
+        required: true
+        type: string
+      context:
+        description: '上下文（可选）'
+        required: false
+        type: string
+
+jobs:
+  deep-dive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 执行深挖分析
+        run: python scripts/run_deep_dive.py
+        env:
+          AI_PROVIDER: ${{ vars.AI_PROVIDER || 'anthropic' }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_MODEL: ${{ vars.AI_MODEL || '' }}
+          DEEP_DIVE_TOPIC: ${{ inputs.topic }}
+          DEEP_DIVE_CONTEXT: ${{ inputs.context || '' }}
+
+      - name: 构建站点
+        run: python scripts/build_site.py
+
+      - name: 部署到 GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./web
+          keep_files: false
