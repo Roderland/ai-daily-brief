@@ -4,7 +4,7 @@ import feedparser
 import httpx
 from datetime import datetime
 from bs4 import BeautifulSoup
-from collector.sources import RSS_SOURCES
+from collector.sources import RSS_SOURCES, ZHIHU_TOPICS
 
 
 def fetch_rss(url: str) -> list[dict]:
