@@ -23,6 +23,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: 恢复已有数据（避免覆盖每日简报）
+        run: |
+          git fetch origin gh-pages --depth=1
+          git checkout origin/gh-pages -- data/ 2>/dev/null || echo "暂无已有数据"
+
       - name: 设置 Python
         uses: actions/setup-python@v5
         with:
