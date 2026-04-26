@@ -17,6 +17,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: 恢复已有深挖数据
+        run: |
+          git fetch origin gh-pages --depth=1
+          git checkout origin/gh-pages -- data/deep_dives/ data/deep_dives_index.json 2>/dev/null || echo "暂无深挖数据"
+
       - name: 设置 Python
         uses: actions/setup-python@v5
         with:

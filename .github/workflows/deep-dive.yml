@@ -10,6 +10,10 @@ on:
         description: '深挖话题'
         required: true
         type: string
+      item_id:
+        description: '条目 ID（自动传参，手动触发可忽略）'
+        required: false
+        type: string
       context:
         description: '上下文（可选）'
         required: false
@@ -44,6 +48,7 @@ jobs:
           AI_API_KEY: ${{ secrets.AI_API_KEY }}
           AI_MODEL: ${{ vars.AI_MODEL || '' }}
           DEEP_DIVE_TOPIC: ${{ inputs.topic }}
+          DEEP_DIVE_ITEM_ID: ${{ inputs.item_id || '' }}
           DEEP_DIVE_CONTEXT: ${{ inputs.context || '' }}
 
       - name: 构建站点

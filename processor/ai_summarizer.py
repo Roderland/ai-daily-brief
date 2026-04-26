@@ -88,14 +88,16 @@ def generate_brief(articles: list[dict]) -> list[dict]:
         result = _call_llm(BRIEF_SYSTEM_PROMPT, user_prompt)
         parsed = json.loads(result)
         items = parsed.get("items", [])
-        for item in items:
+        for i, item in enumerate(items):
             item["date"] = datetime.now().strftime("%Y-%m-%d")
+            item["id"] = f"{item['date']}_{i}"
         return items
     except Exception as e:
         print(f"AI summarizer error: {e}")
         # fallback: 返回原始文章的基础信息
         return [
             {
+                "id": f"{datetime.now().strftime('%Y-%m-%d')}_{i}",
                 "title": a.get("title", ""),
                 "summary": (a.get("summary", "") or "")[:80],
                 "analysis": "",
@@ -106,5 +108,5 @@ def generate_brief(articles: list[dict]) -> list[dict]:
                 "source": a.get("source", ""),
                 "date": datetime.now().strftime("%Y-%m-%d"),
             }
-            for a in articles[:20]
+            for i, a in enumerate(articles[:20])
         ]

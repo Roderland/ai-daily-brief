@@ -19,6 +19,7 @@ DEEP_DIVE_DIR.mkdir(exist_ok=True)
 
 def main():
     topic = os.environ.get("DEEP_DIVE_TOPIC", "")
+    item_id = os.environ.get("DEEP_DIVE_ITEM_ID", "")
     context = os.environ.get("DEEP_DIVE_CONTEXT", "")
 
     if not topic:
@@ -43,12 +44,15 @@ def main():
             dd_index = json.load(f)
     else:
         dd_index = {"dives": []}
-    dd_index["dives"].append({
+    entry = {
         "topic": topic,
         "file": filename,
         "timestamp": timestamp,
         "date": datetime.now().strftime("%Y-%m-%d"),
-    })
+    }
+    if item_id:
+        entry["item_id"] = item_id
+    dd_index["dives"].append(entry)
     with open(dd_index_path, "w", encoding="utf-8") as f:
         json.dump(dd_index, f, ensure_ascii=False, indent=2)
 
