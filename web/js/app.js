@@ -214,7 +214,8 @@ async function fetchAndRenderDeepDive(topic) {
         const resp = await fetch(`${DATA_BASE}/deep_dives_index.json`);
         if (resp.ok) {
             const index = await resp.json();
-            const existing = (index.dives || []).find(d => d.topic === topic);
+            const normalized = t => t.trim().replace(/\s+/g, '');
+            const existing = (index.dives || []).find(d => normalized(d.topic) === normalized(topic));
             if (existing) {
                 const r = await fetch(`${DATA_BASE}/deep_dives/${existing.file}`);
                 if (r.ok) {
