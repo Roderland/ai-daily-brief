@@ -1,5 +1,8 @@
 name: 每日简报
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule:
     # 每天早上 8:00 (UTC+8 = UTC 0:00)
