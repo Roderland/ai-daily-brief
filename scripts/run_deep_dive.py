@@ -12,6 +12,7 @@ sys.path.insert(0, str(project_root))
 from processor.deep_dive import deep_dive
 
 DATA_DIR = project_root / "data"
+DATA_DIR.mkdir(exist_ok=True)
 DEEP_DIVE_DIR = DATA_DIR / "deep_dives"
 DEEP_DIVE_DIR.mkdir(exist_ok=True)
 
