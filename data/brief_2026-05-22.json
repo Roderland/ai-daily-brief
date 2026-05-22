@@ -1,0 +1,146 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T04:24:00.893645",
+  "items": [
+    {
+      "id": "2026-05-22_0",
+      "title": "Maptoposter Online：把你爱的城市画成艺术海报",
+      "summary": "如果你喜欢城市地图、旅行纪念、桌面壁纸、打印海报，或者只是想看看一座城市的路网长什么样，可以试试这个工具。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/109287",
+      "source": "少数派",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "2026-05-22_1",
+      "title": "派早报：小米召开新品发布会、Photoshop 移除工具支持端侧 AI 模型等",
+      "summary": "绿联推出 NAS 新品 DXP4800 GT、哈博森黑鹰 4 号无人机发布等。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/110020",
+      "source": "少数派",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "2026-05-22_2",
+      "title": "新玩意 242｜少数派的编辑们最近买了啥？",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/110009",
+      "source": "少数派",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "2026-05-22_3",
+      "title": "iOS 里的这些实用辅助功能，每个人都可能用得上",
+      "summary": "说到辅助功能，或许很多人对它的回忆还停留在「小白点」。但随着 iPhone 彻底进入全面屏时代，辅助功能也慢慢变得陌生起来。实际上，Apple 每年都会给它添加",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/104073",
+      "source": "少数派",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "2026-05-22_4",
+      "title": "少数派 × 飞傲 多功能便携 CD 音箱一体机 BEATBOX 预售开启",
+      "summary": "前段时间，少数派联合飞傲一起做了点有意思的事情：开启「BEATBOXCD机盖板设计大赛」。我们不想它只是一个标准化的CD机，而是希望它带着用户自己的审美和表达，",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/109957",
+      "source": "少数派",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "2026-05-22_5",
+      "title": "派早报：iQOO 15T 正式发布、小鹏 GX 上市等",
+      "summary": "Apple 公布 App Store 2025 反欺诈报告、微软发布 Azure Linux 4.0、战马工作室同时公开两款新作等。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/109976",
+      "source": "少数派",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "2026-05-22_6",
+      "title": "当 AI 成为角色：漫谈我的 SillyTavern 使用经验",
+      "summary": "ST 以及它背后的这套工作流起初只是我的无心的收获，但网上关于这方面的讨论并不多，实在可惜，故有此文。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/109869",
+      "source": "少数派",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "2026-05-22_7",
+      "title": "4 月音乐精选：听这 8 张美妙的专辑迎接夏天",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/109418",
+      "source": "少数派",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "2026-05-22_8",
+      "title": "自动补全生僻字，让 Kindle 从底层告别小方块",
+      "summary": "本文将分享如何修改 Kindle 底层的 upstart 配置，实现开机自动挂载花园明朝（HanaMin）字体。这不仅能修复字典弹窗，更能让古籍正文中所有生僻字",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/109625",
+      "source": "少数派",
+      "date": "2026-05-22"
+    },
+    {
+      "id": "2026-05-22_9",
+      "title": "社区速递 141 | 派友下午三点的「精神快充」、复古磁带机与特殊的新玩意",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/109928",
+      "source": "少数派",
+      "date": "2026-05-22"
+    }
+  ]
+}
