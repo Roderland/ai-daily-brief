@@ -1,9 +1,37 @@
 {
-  "date": "2026-07-05",
-  "generated_at": "2026-07-05T04:14:46.933696",
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T04:22:20.996132",
   "items": [
     {
-      "id": "2026-07-05_0",
+      "id": "2026-07-06_0",
+      "title": "派早报：阿里禁用 Claude 模型",
+      "summary": "阿里禁用 Claude 模型索尼调整计划，2028 年前发售游戏可继续生产光盘千问、豆包将下线智能体功能Android 反垄断案欧洲终审败诉混动车、商用纯电车将",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/111973",
+      "source": "少数派",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "2026-07-06_1",
+      "title": "背单词更要背释义，FenyiDic 让你记住「熟悉的陌生人」",
+      "summary": "每个单词都认识，为什么还是读不懂英文？查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/111632",
+      "source": "少数派",
+      "date": "2026-07-06"
+    },
+    {
+      "id": "2026-07-06_2",
       "title": "[送码] 聆听用户建议，1Capture 新增多项实用截图功能",
       "summary": "各位少数派的朋友好，距离上一次在少数派介绍1Capture已经过去一年。过去这段时间里，我们开发的这款Mac截图与录屏工具继续做了多轮更新，也根据用户反馈补齐了",
       "analysis": "",
@@ -14,10 +42,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/111645",
       "source": "少数派",
-      "date": "2026-07-05"
+      "date": "2026-07-06"
     },
     {
-      "id": "2026-07-05_1",
+      "id": "2026-07-06_3",
       "title": "住久了没意思（四）：作为最「复合」的空间，客厅要为真实生活让路",
       "summary": "前文回顾：租房常见问题与我的改造原则从有光的地方开始动手打造能好好放松的卧室只要你的房子还有分区可言，那正常情况下就一定有一个可以称之为客厅的区域。在第一篇文章",
       "analysis": "",
@@ -28,10 +56,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/prime/story/how-to-design-a-rental-living-room",
       "source": "少数派",
-      "date": "2026-07-05"
+      "date": "2026-07-06"
     },
     {
-      "id": "2026-07-05_2",
+      "id": "2026-07-06_4",
       "title": "本周看什么 | 最近值得一看的 11 部作品",
       "summary": "📅本周新预告《奥德赛》终极预告7月1日，克里斯托弗·诺兰导演新作《奥德赛》发布了终极预告，北美7月17日、中国内地8月14日上映。马特·达蒙、汤姆·霍兰德、安妮",
       "analysis": "",
@@ -42,10 +70,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/111917",
       "source": "少数派",
-      "date": "2026-07-05"
+      "date": "2026-07-06"
     },
     {
-      "id": "2026-07-05_3",
+      "id": "2026-07-06_5",
       "title": "快捷指令｜让 iPhone 用上锤子的「大爆炸」",
       "summary": "敬「少许的牺牲是必要的」。查看全文",
       "analysis": "",
@@ -56,10 +84,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/111405",
       "source": "少数派",
-      "date": "2026-07-05"
+      "date": "2026-07-06"
     },
     {
-      "id": "2026-07-05_4",
+      "id": "2026-07-06_6",
       "title": "这四个工作习惯，或许也能帮你找到掌控感",
       "summary": "无论你追求的是更高的职位、更自由的时间、还是某种更纯粹的成就感，有一件事大概是共通的：那就是尽量让自己的人生，少一点完全依赖运气的成分，多一点可被掌控、可被验证",
       "analysis": "",
@@ -70,10 +98,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/111708",
       "source": "少数派",
-      "date": "2026-07-05"
+      "date": "2026-07-06"
     },
     {
-      "id": "2026-07-05_5",
+      "id": "2026-07-06_7",
       "title": "派早报：大疆发布 DJI Mic Mini 2S 迷你无线麦克风等",
       "summary": "Apple「隐藏邮件地址」功能存在隐私漏洞，System76 推出 Linux 轻薄本 Lemur Pro 等。查看全文",
       "analysis": "",
@@ -84,10 +112,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/111898",
       "source": "少数派",
-      "date": "2026-07-05"
+      "date": "2026-07-06"
     },
     {
-      "id": "2026-07-05_6",
+      "id": "2026-07-06_8",
       "title": "iOS 剪贴板管理工具 Procut：换个方式收藏碎片化信息",
       "summary": "你一定有过这样的经历：在小红书刷到一篇感兴趣的笔记，复制链接想稍后再看，结果淹没在聊天记录里再也找不到了。微信群里有人分享了一个公众号文章，随手复制了链接，等真",
       "analysis": "",
@@ -98,10 +126,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/110950",
       "source": "少数派",
-      "date": "2026-07-05"
+      "date": "2026-07-06"
     },
     {
-      "id": "2026-07-05_7",
+      "id": "2026-07-06_9",
       "title": "共创试读 | 给童年一份礼物：从是什么到为什么，找到合适的掌机",
       "summary": "近年来，伴随着复古浪潮的席卷而来，许多玩家似乎又重新关注起了一些老游戏、老设备。从2022年的3DS涨价风波，到后来层出不穷的所谓「开源掌机」，大家似乎都在寻找",
       "analysis": "",
@@ -112,35 +140,7 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/111069",
       "source": "少数派",
-      "date": "2026-07-05"
-    },
-    {
-      "id": "2026-07-05_8",
-      "title": "家用游戏机的新选择，Steam Machine 玩起来怎么样？",
-      "summary": "本文由IGN中国编译自IGNUS相关内容，原作者JacquelineThomas、编译者Tony，少数派经IGN中国授权转载，仅对文章格式略作调整。阅读原文>在",
-      "analysis": "",
-      "category": "工具类",
-      "tags": [
-        "工具类"
-      ],
-      "importance": 3,
-      "original_url": "https://sspai.com/post/111763",
-      "source": "少数派",
-      "date": "2026-07-05"
-    },
-    {
-      "id": "2026-07-05_9",
-      "title": "派早报：WhatsApp 开放用户名预留、PS 将取消实体光盘等",
-      "summary": "Gmail Live 进入测试阶段、大我推出 B251 PRO 显示器等。查看全文",
-      "analysis": "",
-      "category": "工具类",
-      "tags": [
-        "工具类"
-      ],
-      "importance": 3,
-      "original_url": "https://sspai.com/post/111861",
-      "source": "少数派",
-      "date": "2026-07-05"
+      "date": "2026-07-06"
     }
   ]
 }
