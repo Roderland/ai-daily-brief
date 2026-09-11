@@ -1,9 +1,37 @@
 {
-  "date": "2026-09-10",
-  "generated_at": "2026-09-10T04:24:32.281809",
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T04:24:14.375328",
   "items": [
     {
-      "id": "2026-09-10_0",
+      "id": "2026-09-11_0",
+      "title": "派早报：商务部回应美国 AI 蒸馏指控",
+      "summary": "商务部回应美国 AI 蒸馏指控谷歌声称为了合规将「降级」欧盟搜索服务Apple 智能将有用量限制OpenAI 将与三星合作开发芯片小岛秀夫新游戏被索尼取消，转由",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/114439",
+      "source": "少数派",
+      "date": "2026-09-11"
+    },
+    {
+      "id": "2026-09-11_1",
+      "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
+      "summary": "祝每一位老师教师节快乐！查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/114384",
+      "source": "少数派",
+      "date": "2026-09-11"
+    },
+    {
+      "id": "2026-09-11_2",
       "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
       "summary": "奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等。查看全文",
       "analysis": "",
@@ -14,10 +42,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114394",
       "source": "少数派",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     },
     {
-      "id": "2026-09-10_1",
+      "id": "2026-09-11_3",
       "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会",
       "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Wa",
       "analysis": "",
@@ -28,10 +56,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114393",
       "source": "少数派",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     },
     {
-      "id": "2026-09-10_2",
+      "id": "2026-09-11_4",
       "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
       "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Wa",
       "analysis": "",
@@ -42,10 +70,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114392",
       "source": "少数派",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     },
     {
-      "id": "2026-09-10_3",
+      "id": "2026-09-11_5",
       "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
       "summary": "为啥那么多人喜欢大手机呢？既然上了 70 mm 我都握不住，要不买个 Pro Max 试试？查看全文",
       "analysis": "",
@@ -56,10 +84,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114366",
       "source": "少数派",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     },
     {
-      "id": "2026-09-10_4",
+      "id": "2026-09-11_6",
       "title": "华人世界被忽视的游戏主机：扩写中国家用游戏主机的时间线",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的",
       "analysis": "",
@@ -70,10 +98,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/113842",
       "source": "少数派",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     },
     {
-      "id": "2026-09-10_5",
+      "id": "2026-09-11_7",
       "title": "Velastar：喜欢仰望星空的你，有了一个探索异星的新选择",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的",
       "analysis": "",
@@ -84,10 +112,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/113668",
       "source": "少数派",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     },
     {
-      "id": "2026-09-10_6",
+      "id": "2026-09-11_8",
       "title": "派早报：LG 电视被曝存在后门、《塞尔达传说：时之笛》重制版公布等",
       "summary": "Arm 发布 C2 CPU 与新 Mali GPU，索尼推出全画幅鱼眼变焦镜头等。查看全文",
       "analysis": "",
@@ -98,10 +126,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114352",
       "source": "少数派",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     },
     {
-      "id": "2026-09-10_7",
+      "id": "2026-09-11_9",
       "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
       "summary": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从",
       "analysis": "",
@@ -112,35 +140,7 @@
       "importance": 3,
       "original_url": "https://sspai.com/prime/story/sidecar-optimizations",
       "source": "少数派",
-      "date": "2026-09-10"
-    },
-    {
-      "id": "2026-09-10_8",
-      "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法的「反投喂」信息源",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容",
-      "analysis": "",
-      "category": "工具类",
-      "tags": [
-        "工具类"
-      ],
-      "importance": 3,
-      "original_url": "https://sspai.com/post/114327",
-      "source": "少数派",
-      "date": "2026-09-10"
-    },
-    {
-      "id": "2026-09-10_9",
-      "title": "一日一技｜我的 Windows 11 头像会动，你也可以",
-      "summary": "Where's everyone going? Bingo?查看全文",
-      "analysis": "",
-      "category": "工具类",
-      "tags": [
-        "工具类"
-      ],
-      "importance": 3,
-      "original_url": "https://sspai.com/post/114312",
-      "source": "少数派",
-      "date": "2026-09-10"
+      "date": "2026-09-11"
     }
   ]
 }
