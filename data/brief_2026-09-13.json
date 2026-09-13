@@ -1,9 +1,23 @@
 {
-  "date": "2026-09-12",
-  "generated_at": "2026-09-12T04:22:25.339104",
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T04:36:07.069521",
   "items": [
     {
-      "id": "2026-09-12_0",
+      "id": "2026-09-13_0",
+      "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/114461",
+      "source": "少数派",
+      "date": "2026-09-13"
+    },
+    {
+      "id": "2026-09-13_1",
       "title": "本周看什么 | 最近值得一看的 7 部作品",
       "summary": "📅本周新预告《哥斯拉-0.0》正式预告9月8日，电影《哥斯拉-0.0》发布了正式预告，将于11月3日在日本上映、11月6日在北美上映。山崎贵回归担任导演、编剧和",
       "analysis": "",
@@ -14,10 +28,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114458",
       "source": "少数派",
-      "date": "2026-09-12"
+      "date": "2026-09-13"
     },
     {
-      "id": "2026-09-12_1",
+      "id": "2026-09-13_2",
       "title": "iPhone 18 和 Duo 发布会上，Apple 没告诉你的那些事",
       "summary": "新品尚未发货，我们继续整理了一些发布会中未提及的细节，不妨一起来看看有没有你感兴趣的。查看全文",
       "analysis": "",
@@ -28,10 +42,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114449",
       "source": "少数派",
-      "date": "2026-09-12"
+      "date": "2026-09-13"
     },
     {
-      "id": "2026-09-12_2",
+      "id": "2026-09-13_3",
       "title": "「正常」已是不易：聊聊不那么标新立异的理想 i6",
       "summary": "如果你想买一辆能够长期持有、同时又足够「正常」的新能源车，我还是非常推荐去试试理想 i6。查看全文",
       "analysis": "",
@@ -42,10 +56,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/113605",
       "source": "少数派",
-      "date": "2026-09-12"
+      "date": "2026-09-13"
     },
     {
-      "id": "2026-09-12_3",
+      "id": "2026-09-13_4",
       "title": "新 iPhone 配件精选：多种组合一次配齐",
       "summary": "iPhone18Pro/ProMax即将开售，这次我们围绕新iPhone准备了几种常用配件，并整理成了五种配件组合，覆盖机身防护、充电、数据连接和磁吸支撑。其中",
       "analysis": "",
@@ -56,10 +70,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114414",
       "source": "少数派",
-      "date": "2026-09-12"
+      "date": "2026-09-13"
     },
     {
-      "id": "2026-09-12_4",
+      "id": "2026-09-13_5",
       "title": "派早报：商务部回应美国 AI 蒸馏指控",
       "summary": "商务部回应美国 AI 蒸馏指控谷歌声称为了合规将「降级」欧盟搜索服务Apple 智能将有用量限制OpenAI 将与三星合作开发芯片小岛秀夫新游戏被索尼取消，转由",
       "analysis": "",
@@ -70,10 +84,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114439",
       "source": "少数派",
-      "date": "2026-09-12"
+      "date": "2026-09-13"
     },
     {
-      "id": "2026-09-12_5",
+      "id": "2026-09-13_6",
       "title": "App+1｜下一节：教学工作紧张忙碌，下一节课从从容容",
       "summary": "祝每一位老师教师节快乐！查看全文",
       "analysis": "",
@@ -84,10 +98,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114384",
       "source": "少数派",
-      "date": "2026-09-12"
+      "date": "2026-09-13"
     },
     {
-      "id": "2026-09-12_6",
+      "id": "2026-09-13_7",
       "title": "派早报：Apple 发布 iPhone Duo 折叠屏等",
       "summary": "奥之心发布 OM SYSTEM PEN 相机、Sonos 更新音频系统等。查看全文",
       "analysis": "",
@@ -98,10 +112,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114394",
       "source": "少数派",
-      "date": "2026-09-12"
+      "date": "2026-09-13"
     },
     {
-      "id": "2026-09-12_7",
+      "id": "2026-09-13_8",
       "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会",
       "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Wa",
       "analysis": "",
@@ -112,10 +126,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114393",
       "source": "少数派",
-      "date": "2026-09-12"
+      "date": "2026-09-13"
     },
     {
-      "id": "2026-09-12_8",
+      "id": "2026-09-13_9",
       "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
       "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Wa",
       "analysis": "",
@@ -126,21 +140,7 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114392",
       "source": "少数派",
-      "date": "2026-09-12"
-    },
-    {
-      "id": "2026-09-12_9",
-      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
-      "summary": "为啥那么多人喜欢大手机呢？既然上了 70 mm 我都握不住，要不买个 Pro Max 试试？查看全文",
-      "analysis": "",
-      "category": "工具类",
-      "tags": [
-        "工具类"
-      ],
-      "importance": 3,
-      "original_url": "https://sspai.com/post/114366",
-      "source": "少数派",
-      "date": "2026-09-12"
+      "date": "2026-09-13"
     }
   ]
 }
