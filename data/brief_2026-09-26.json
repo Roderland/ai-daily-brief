@@ -1,9 +1,23 @@
 {
-  "date": "2026-09-25",
-  "generated_at": "2026-09-25T04:43:24.431417",
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T04:46:08.013874",
   "items": [
     {
-      "id": "2026-09-25_0",
+      "id": "2026-09-26_0",
+      "title": "本周看什么 | 最近值得一看的 6 部作品",
+      "summary": "📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映。影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/114957",
+      "source": "少数派",
+      "date": "2026-09-26"
+    },
+    {
+      "id": "2026-09-26_1",
       "title": "新玩意 252｜少数派的编辑们最近买了啥？",
       "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验",
       "analysis": "",
@@ -14,10 +28,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114954",
       "source": "少数派",
-      "date": "2026-09-25"
+      "date": "2026-09-26"
     },
     {
-      "id": "2026-09-25_1",
+      "id": "2026-09-26_2",
       "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
       "summary": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中",
       "analysis": "",
@@ -28,10 +42,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/prime/story/home-made-beverages-5",
       "source": "少数派",
-      "date": "2026-09-25"
+      "date": "2026-09-26"
     },
     {
-      "id": "2026-09-25_2",
+      "id": "2026-09-26_3",
       "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的",
       "analysis": "",
@@ -42,10 +56,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/113823",
       "source": "少数派",
-      "date": "2026-09-25"
+      "date": "2026-09-26"
     },
     {
-      "id": "2026-09-25_3",
+      "id": "2026-09-26_4",
       "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
       "summary": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，",
       "analysis": "",
@@ -56,10 +70,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114395",
       "source": "少数派",
-      "date": "2026-09-25"
+      "date": "2026-09-26"
     },
     {
-      "id": "2026-09-25_4",
+      "id": "2026-09-26_5",
       "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audio-3.1系列模型等",
       "summary": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文",
       "analysis": "",
@@ -70,10 +84,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114913",
       "source": "少数派",
-      "date": "2026-09-25"
+      "date": "2026-09-26"
     },
     {
-      "id": "2026-09-25_5",
+      "id": "2026-09-26_6",
       "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品",
       "summary": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多",
       "analysis": "",
@@ -84,10 +98,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114904",
       "source": "少数派",
-      "date": "2026-09-25"
+      "date": "2026-09-26"
     },
     {
-      "id": "2026-09-25_6",
+      "id": "2026-09-26_7",
       "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
       "summary": "Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。",
       "analysis": "",
@@ -98,10 +112,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114901",
       "source": "少数派",
-      "date": "2026-09-25"
+      "date": "2026-09-26"
     },
     {
-      "id": "2026-09-25_7",
+      "id": "2026-09-26_8",
       "title": "Here Wallpaper：把喜欢的地图做成壁纸",
       "summary": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文",
       "analysis": "",
@@ -112,10 +126,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114211",
       "source": "少数派",
-      "date": "2026-09-25"
+      "date": "2026-09-26"
     },
     {
-      "id": "2026-09-25_8",
+      "id": "2026-09-26_9",
       "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
       "summary": "在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前",
       "analysis": "",
@@ -126,21 +140,7 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114878",
       "source": "少数派",
-      "date": "2026-09-25"
-    },
-    {
-      "id": "2026-09-25_9",
-      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
-      "summary": "黄金时代「时尚与科技结合」的浪漫。查看全文",
-      "analysis": "",
-      "category": "工具类",
-      "tags": [
-        "工具类"
-      ],
-      "importance": 3,
-      "original_url": "https://sspai.com/post/114551",
-      "source": "少数派",
-      "date": "2026-09-25"
+      "date": "2026-09-26"
     }
   ]
 }
