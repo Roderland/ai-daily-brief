@@ -1,9 +1,23 @@
 {
-  "date": "2026-10-02",
-  "generated_at": "2026-10-02T05:23:49.846424",
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T05:42:32.004818",
   "items": [
     {
-      "id": "2026-10-02_0",
+      "id": "2026-10-03_0",
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "summary": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/115211",
+      "source": "少数派",
+      "date": "2026-10-03"
+    },
+    {
+      "id": "2026-10-03_1",
       "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
       "summary": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？查看全文",
       "analysis": "",
@@ -14,10 +28,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/115070",
       "source": "少数派",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "id": "2026-10-02_1",
+      "id": "2026-10-03_2",
       "title": "经典任务管理软件的现代重构：新版 2Do 详解",
       "summary": "完全重构的 2Do 是我的心目中最佳的任务管理工具。查看全文",
       "analysis": "",
@@ -28,10 +42,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/115166",
       "source": "少数派",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "id": "2026-10-02_2",
+      "id": "2026-10-03_3",
       "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
       "summary": "祝你旅途顺遂，假期自由。查看全文",
       "analysis": "",
@@ -42,10 +56,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114945",
       "source": "少数派",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "id": "2026-10-02_3",
+      "id": "2026-10-03_4",
       "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
       "summary": "Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。查看全文",
       "analysis": "",
@@ -56,10 +70,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/115197",
       "source": "少数派",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "id": "2026-10-02_4",
+      "id": "2026-10-03_5",
       "title": "社区速递 160 | 水月雨首款游戏耳机与八月派友剁手清单",
       "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容",
       "analysis": "",
@@ -70,10 +84,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/115153",
       "source": "少数派",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "id": "2026-10-02_5",
+      "id": "2026-10-03_6",
       "title": "更懂你的心，也更懂你：Apple Watch Series 12 体验",
       "summary": "全新 Apple Watch Series 12，有哪些可感知的升级？查看全文",
       "analysis": "",
@@ -84,10 +98,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/115061",
       "source": "少数派",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "id": "2026-10-02_6",
+      "id": "2026-10-03_7",
       "title": "可塑的白昼：ColorOS17 深度评测",
       "summary": "时间倾斜，触碰我，发出清澈的金属般的声响。我的感官在战栗，我觉我能——我能抓住这可塑的白昼。——里尔克《时辰祈祷》AppleEvent'26上，主动智能赋能的S",
       "analysis": "",
@@ -98,10 +112,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114728",
       "source": "少数派",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "id": "2026-10-02_7",
+      "id": "2026-10-03_8",
       "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
       "summary": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研泡泡骚LowPro碳纹黑少",
       "analysis": "",
@@ -112,10 +126,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/115134",
       "source": "少数派",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     },
     {
-      "id": "2026-10-02_8",
+      "id": "2026-10-03_9",
       "title": "派评 | 近期值得关注的 App",
       "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
       "analysis": "",
@@ -126,21 +140,7 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/115094",
       "source": "少数派",
-      "date": "2026-10-02"
-    },
-    {
-      "id": "2026-10-02_9",
-      "title": "基于 Termux 的 Android 手机开发服务器实操",
-      "summary": "不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-      "analysis": "",
-      "category": "工具类",
-      "tags": [
-        "工具类"
-      ],
-      "importance": 3,
-      "original_url": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
-      "source": "少数派",
-      "date": "2026-10-02"
+      "date": "2026-10-03"
     }
   ]
 }
