@@ -1,9 +1,37 @@
 {
-  "date": "2026-10-07",
-  "generated_at": "2026-10-07T05:40:58.425801",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T05:50:12.163226",
   "items": [
     {
-      "id": "2026-10-07_0",
+      "id": "2026-10-08_0",
+      "title": "App Store 生态规模五年翻倍，助力中国开发者走向全球",
+      "summary": "10月8日，Apple发布《中国AppStore生态系统——2025年开发者与用户价值研究》。这份由Apple提供支持、上海财经大学商学院副教授居恒与安诺析思国",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/115462",
+      "source": "少数派",
+      "date": "2026-10-08"
+    },
+    {
+      "id": "2026-10-08_1",
+      "title": "派早报：微软发布 Windows 相关新品、Google AI 新闻两则等",
+      "summary": "Anthropic 推出 Claude for Google Workspace、Reflection 发布首个开放权重模型 Beam 等。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/115455",
+      "source": "少数派",
+      "date": "2026-10-08"
+    },
+    {
+      "id": "2026-10-08_2",
       "title": "罗马：永恒之城，永恒于世",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的",
       "analysis": "",
@@ -14,10 +42,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114845",
       "source": "少数派",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "id": "2026-10-07_1",
+      "id": "2026-10-08_3",
       "title": "基于 Vaultwarden 和 Keyguard 的自托管密码管理实践",
       "summary": "密码管理服务的数据，当然要掌握在自己手里。查看全文",
       "analysis": "",
@@ -28,10 +56,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/115416",
       "source": "少数派",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "id": "2026-10-07_2",
+      "id": "2026-10-08_4",
       "title": "十个案例助你轻松上手 iOS 27 通知自动化",
       "summary": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。查看全文",
       "analysis": "",
@@ -42,10 +70,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114536",
       "source": "少数派",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "id": "2026-10-07_3",
+      "id": "2026-10-08_5",
       "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
       "summary": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。查看全文",
       "analysis": "",
@@ -56,10 +84,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/115308",
       "source": "少数派",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "id": "2026-10-07_4",
+      "id": "2026-10-08_6",
       "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
       "summary": "不知道以后 CMF 的设计还会不会像现在一样出彩。查看全文",
       "analysis": "",
@@ -70,10 +98,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/114922",
       "source": "少数派",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "id": "2026-10-07_5",
+      "id": "2026-10-08_7",
       "title": "本周看什么 | 最近值得一看的 8 部作品",
       "summary": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥",
       "analysis": "",
@@ -84,10 +112,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/115211",
       "source": "少数派",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "id": "2026-10-07_6",
+      "id": "2026-10-08_8",
       "title": "从玩家的世界掠过：Bungie 的「列车」如何驶向终焉",
       "summary": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？查看全文",
       "analysis": "",
@@ -98,10 +126,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/115070",
       "source": "少数派",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     },
     {
-      "id": "2026-10-07_7",
+      "id": "2026-10-08_9",
       "title": "经典任务管理软件的现代重构：新版 2Do 详解",
       "summary": "完全重构的 2Do 是我的心目中最佳的任务管理工具。查看全文",
       "analysis": "",
@@ -112,35 +140,7 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/115166",
       "source": "少数派",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "2026-10-07_8",
-      "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
-      "summary": "祝你旅途顺遂，假期自由。查看全文",
-      "analysis": "",
-      "category": "工具类",
-      "tags": [
-        "工具类"
-      ],
-      "importance": 3,
-      "original_url": "https://sspai.com/post/114945",
-      "source": "少数派",
-      "date": "2026-10-07"
-    },
-    {
-      "id": "2026-10-07_9",
-      "title": "派早报：OpenAI 发布 Dot 智能体、Apple 移动睡眠呼吸暂停迹象提示软件国内获批等",
-      "summary": "Nothing 发布旗舰耳机 Headphone 1 Pro，AMD 斥资 82 亿美元收购 World Labs 等。查看全文",
-      "analysis": "",
-      "category": "工具类",
-      "tags": [
-        "工具类"
-      ],
-      "importance": 3,
-      "original_url": "https://sspai.com/post/115197",
-      "source": "少数派",
-      "date": "2026-10-07"
+      "date": "2026-10-08"
     }
   ]
 }
