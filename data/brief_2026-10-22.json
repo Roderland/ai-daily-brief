@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T04:27:31.814767",
+  "items": [
+    {
+      "id": "2026-10-22_0",
+      "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
+      "summary": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/116953",
+      "source": "少数派",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "2026-10-22_1",
+      "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/116820",
+      "source": "少数派",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "2026-10-22_2",
+      "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+      "summary": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/116445",
+      "source": "少数派",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "2026-10-22_3",
+      "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
+      "summary": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/115107",
+      "source": "少数派",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "2026-10-22_4",
+      "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
+      "summary": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/116887",
+      "source": "少数派",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "2026-10-22_5",
+      "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
+      "summary": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/prime/story/inside-release-notes-261020",
+      "source": "少数派",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "2026-10-22_6",
+      "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验",
+      "summary": "在 TWS 5 系列获得我们不错评价之后，Buds Clip 能否延续他们「来得晚但完成度更高」的特点呢？查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/115475",
+      "source": "少数派",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "2026-10-22_7",
+      "title": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
+      "summary": "原厂屏幕之外最省心的搭档。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/116661",
+      "source": "少数派",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "2026-10-22_8",
+      "title": "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
+      "summary": "简单干净、支持双拼纠错的 iOS 输入法。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/116430",
+      "source": "少数派",
+      "date": "2026-10-22"
+    },
+    {
+      "id": "2026-10-22_9",
+      "title": "派评 | 近期值得关注的 App",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/116705",
+      "source": "少数派",
+      "date": "2026-10-22"
+    }
+  ]
+}
