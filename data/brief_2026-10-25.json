@@ -1,9 +1,23 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T04:23:05.243950",
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T04:26:48.866799",
   "items": [
     {
-      "id": "2026-10-24_0",
+      "id": "2026-10-25_0",
+      "title": "在硅谷，遇见个人计算机历史",
+      "summary": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/116128",
+      "source": "少数派",
+      "date": "2026-10-25"
+    },
+    {
+      "id": "2026-10-25_1",
       "title": "本周看什么 | 最近值得一看的 12 部作品",
       "summary": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第",
       "analysis": "",
@@ -14,10 +28,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/117169",
       "source": "少数派",
-      "date": "2026-10-24"
+      "date": "2026-10-25"
     },
     {
-      "id": "2026-10-24_1",
+      "id": "2026-10-25_2",
       "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
       "summary": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调",
       "analysis": "",
@@ -28,10 +42,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/116398",
       "source": "少数派",
-      "date": "2026-10-24"
+      "date": "2026-10-25"
     },
     {
-      "id": "2026-10-24_2",
+      "id": "2026-10-25_3",
       "title": "破与立：设计视角下的 iPhone Duo",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的",
       "analysis": "",
@@ -42,10 +56,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/116979",
       "source": "少数派",
-      "date": "2026-10-24"
+      "date": "2026-10-25"
     },
     {
-      "id": "2026-10-24_3",
+      "id": "2026-10-25_4",
       "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
       "summary": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文",
       "analysis": "",
@@ -56,10 +70,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/117104",
       "source": "少数派",
-      "date": "2026-10-24"
+      "date": "2026-10-25"
     },
     {
-      "id": "2026-10-24_4",
+      "id": "2026-10-25_5",
       "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的",
       "analysis": "",
@@ -70,10 +84,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/115437",
       "source": "少数派",
-      "date": "2026-10-24"
+      "date": "2026-10-25"
     },
     {
-      "id": "2026-10-24_5",
+      "id": "2026-10-25_6",
       "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
       "summary": "配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。查看全文",
       "analysis": "",
@@ -84,10 +98,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/116923",
       "source": "少数派",
-      "date": "2026-10-24"
+      "date": "2026-10-25"
     },
     {
-      "id": "2026-10-24_6",
+      "id": "2026-10-25_7",
       "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
       "summary": "药物不能解决所有问题，这是是我学到的重要一课。查看全文",
       "analysis": "",
@@ -98,10 +112,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/115090",
       "source": "少数派",
-      "date": "2026-10-24"
+      "date": "2026-10-25"
     },
     {
-      "id": "2026-10-24_7",
+      "id": "2026-10-25_8",
       "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
       "summary": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文",
       "analysis": "",
@@ -112,10 +126,10 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/116953",
       "source": "少数派",
-      "date": "2026-10-24"
+      "date": "2026-10-25"
     },
     {
-      "id": "2026-10-24_8",
+      "id": "2026-10-25_9",
       "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
       "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容",
       "analysis": "",
@@ -126,21 +140,7 @@
       "importance": 3,
       "original_url": "https://sspai.com/post/116820",
       "source": "少数派",
-      "date": "2026-10-24"
-    },
-    {
-      "id": "2026-10-24_9",
-      "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
-      "summary": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得",
-      "analysis": "",
-      "category": "工具类",
-      "tags": [
-        "工具类"
-      ],
-      "importance": 3,
-      "original_url": "https://sspai.com/post/116445",
-      "source": "少数派",
-      "date": "2026-10-24"
+      "date": "2026-10-25"
     }
   ]
 }
