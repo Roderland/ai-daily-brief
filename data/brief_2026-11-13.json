@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T06:22:27.546459",
+  "items": [
+    {
+      "id": "2026-11-13_0",
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+      "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了A",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/118512",
+      "source": "少数派",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13_1",
+      "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
+      "summary": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/118966",
+      "source": "少数派",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13_2",
+      "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+      "summary": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/118366",
+      "source": "少数派",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13_3",
+      "title": "Mac 选购指南 2026 冬季版",
+      "summary": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/85735",
+      "source": "少数派",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13_4",
+      "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
+      "summary": "玩智能家居这几年，灯光、传感器和开关基本已经靠着Matter和HomeAssistant打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/118921",
+      "source": "少数派",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13_5",
+      "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
+      "summary": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/118935",
+      "source": "少数派",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13_6",
+      "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
+      "summary": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/118781",
+      "source": "少数派",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13_7",
+      "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
+      "summary": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/118175",
+      "source": "少数派",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13_8",
+      "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
+      "summary": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。查看全文",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/118458",
+      "source": "少数派",
+      "date": "2026-11-13"
+    },
+    {
+      "id": "2026-11-13_9",
+      "title": "社区速递 165 | 透明工牌与派友十月购物清单",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容",
+      "analysis": "",
+      "category": "工具类",
+      "tags": [
+        "工具类"
+      ],
+      "importance": 3,
+      "original_url": "https://sspai.com/post/118861",
+      "source": "少数派",
+      "date": "2026-11-13"
+    }
+  ]
+}
